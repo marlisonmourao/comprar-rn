@@ -22,7 +22,7 @@ Um aplicativo mobile desenvolvido com React Native e Expo (Managed Workflow) par
 
 1. Clone o repositório:
 ```bash
-git clone [URL_DO_REPOSITÓRIO]
+git clone [https://github.com/marlisonmourao/comprar-rn]
 cd comprar
 ```
 
